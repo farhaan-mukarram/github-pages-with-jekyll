@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "About me"
 ---
 
-I'm glad you are here. I plan to talk about ...
+I'm a final year Computer Science student at NUST-SEECS
